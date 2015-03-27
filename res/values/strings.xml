@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PI Home</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_cofiguracion">Cofiguracion</string>
+    <string name="title_activity_menu">menu</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_zona_list">Zonas</string>
+    <string name="title_zona_detail">Zona Detail</string>
+</resources>
